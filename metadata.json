@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Informasi Akuntansi PDAM Digital",
+  "description": "A comprehensive accounting and operational management system for regional water utility (PDAM), featuring financial dashboards, billing management, customer tracking, and AI-powered financial insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
